@@ -1,0 +1,100 @@
+<resources>
+    <style name="AppTheme_Purple" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Purple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Purple</item>
+        <item name="colorAccent">@color/colorAccent_DeepOrange</item>
+    </style>
+
+    <style name="AppTheme_DeepPurple" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_DeepPurple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_DeepPurple</item>
+        <item name="colorAccent">@color/colorAccent_Pink</item>
+    </style>
+
+    <style name="AppTheme_Indigo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Indigo</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Indigo</item>
+        <item name="colorAccent">@color/colorAccent_Pink</item>
+    </style>
+
+    <style name="AppTheme_Blue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Blue</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Blue</item>
+        <item name="colorAccent">@color/colorAccent_Amber</item>
+    </style>
+
+    <style name="AppTheme_Teal" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Teal</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Teal</item>
+        <item name="colorAccent">@color/colorAccent_Red</item>
+    </style>
+
+    <style name="AppTheme_Green" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Green</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Green</item>
+        <item name="colorAccent">@color/colorAccent_DeepOrange</item>
+    </style>
+
+    <style name="AppTheme_Amber" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Amber</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Amber</item>
+        <item name="colorAccent">@color/colorAccent_Green</item>
+    </style>
+
+    <style name="AppTheme_DeepOrange" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_DeepOrange</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_DeepOrange</item>
+        <item name="colorAccent">@color/colorAccent_Green</item>
+    </style>
+
+    <style name="AppTheme_Pink" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Pink</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Pink</item>
+        <item name="colorAccent">@color/colorAccent_Green</item>
+    </style>
+
+    <style name="AppTheme_Red" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Red</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Red</item>
+        <item name="colorAccent">@color/colorAccent_Green</item>
+    </style>
+
+    <style name="AppTheme_Grey" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_BlueGrey</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_BlueGrey</item>
+        <item name="colorAccent">@color/colorAccent_DeepOrange</item>
+    </style>
+
+    <style name="AppTheme_Brown" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary_Brown</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Brown</item>
+        <item name="colorAccent">@color/colorAccent_DeepOrange</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 导航栏颜色 -->
+
+    </style>
+	<!-- 主题选择器样式 -->
+    <style name="colorPickerStyle">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:foreground">@drawable/ripple_borderless_light</item>
+        <item name="android:background">@drawable/yuan</item>
+        <item name="android:gravity">center_vertical|center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+	
+ 
+</resources>
